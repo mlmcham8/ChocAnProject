@@ -1,0 +1,6 @@
+123456	Massage	25
+234561	Counseling	60
+345612	GroupCounseling	80
+456123	Internal	45
+561234	Dietitian	60
+612345	Exercise	35

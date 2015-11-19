@@ -1,0 +1,2 @@
+000001	 Number of consultations: 0 for a total of  185
+444444	 Number of consultations: 0 for a total of  50
